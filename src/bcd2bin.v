@@ -1,5 +1,3 @@
-//ENGR 190 Lab 09 part 2 bcd to binary converter
-//Caleb Triplett 03/15/23
 module bcd2bin(
 input  [3:0] bcd_low,    
 input  [3:0] bcd_high,    
