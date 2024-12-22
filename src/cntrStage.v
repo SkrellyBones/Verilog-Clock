@@ -1,5 +1,5 @@
-//ENGR 190 Lab 2 part 2 modified counterstage with active low sync load
-//Caleb Triplett 03/15/23
+// modified counterstage with active low sync load
+
 
 module cntrStage
   #(parameter cntr_tc_p = 9) (  // counter terminal count
