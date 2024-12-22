@@ -1,6 +1,6 @@
-//ENGR 190 Lab 09 part 2, 4 bit counter with active low load, toggleable zero blanker,
+// 4 bit counter with active low load, toggleable zero blanker,
 //toggleable hour manager, and a toggleable load from switch inputs
-//Caleb Triplett 03/15/23
+
 module clock2 #(parameter timey0 = 49999999, timey1 = 59, timey2 = 59, timey3 = 11, zeroz = 1) (
   input        clk_i,      
   input        nLoaded_i,   // active low synchronous load
