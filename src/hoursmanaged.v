@@ -1,5 +1,5 @@
-//ENGR 190 Lab 09 part 2, manager to set hours to 12 when they reach 0
-//Caleb Triplett 03/15/23
+//manager to set hours to 12 when they reach 0
+
 
 module hoursmanaged
 #(parameter zeroed = 1, parameter hrmax= 11)(         
