@@ -1,5 +1,5 @@
-// ENGR 190 Lab 7, 7 segment display from 4 bit hex
-// Caleb Triplett, 02/22/23
+//7 segment display from 4 bit hex
+
 module hex7seg (
   input  [3:0] c_i,      // 4-bit hexidecimal digit input
   output [6:0] disp_o);  // 7-bit output to a 7-segment display
