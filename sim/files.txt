@@ -1,0 +1,8 @@
+..\sim\clock2_tb.v
+..\src\clock2.v
+..\src\hoursmanaged.v
+..\src\cntrStage.v
+..\src\zeroblanker.v
+..\src\hex7seg.v
+..\src\bin2BCD.v
+..\src\bcd2bin.v
