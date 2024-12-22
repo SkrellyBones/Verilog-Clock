@@ -1,5 +1,5 @@
-//ENGR 190 Lab 09 part 2, Blanker for hours if it displays 0
-//Caleb Triplett 03/15/23
+//Blanker for hours if it displays 0
+
 module zeroblanker #(parameter blanktoggle = 1)(
   input   [6:0] needblank, // unblanked value
   output  [6:0] blanked);  //blanked value
