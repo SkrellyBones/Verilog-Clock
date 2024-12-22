@@ -1,5 +1,5 @@
-//ENGR 190 Lab 2 part 2, Testbench for clock2 module
-//Caleb Triplett 03/15/23
+//Testbench for clock2 module for use with GTKWAVE
+
 `timescale 1s/10ms 
 
 module clock2_tb;
