@@ -1,5 +1,5 @@
-//ENGR 190 Lab 09 part 2, binary to bcd converter
-//Caleb Triplett 03/15/23
+// binary to bcd converter
+
 
 module bin2bcd(
     input [6:0] bin_in,
