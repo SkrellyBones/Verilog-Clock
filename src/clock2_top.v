@@ -1,5 +1,4 @@
-//ENGR 190 Lab 09 part 2, Top file
-//Caleb Triplett 03/15/23
+
 module clock2_top(
 input          CLOCK_50,
 input          KEY0,      
