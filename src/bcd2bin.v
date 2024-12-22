@@ -1,3 +1,5 @@
+//bcd to binary converter
+
 module bcd2bin(
 input  [3:0] bcd_low,    
 input  [3:0] bcd_high,    
